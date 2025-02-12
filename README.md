@@ -1,4 +1,4 @@
-Desenvolvi um site de café moderno e interativo para aprimorar minhas habilidades em desenvolvimento web.
+Desenvolvi um site Finas-main moderno e interativo para aprimorar minhas habilidades em desenvolvimento web.
 <br>
 O objetivo foi criar uma experiência intuitiva para os usuários, exibindo o cardápio de forma dinâmica e permitindo interações com pedidos.
 
