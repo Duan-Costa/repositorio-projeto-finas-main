@@ -14,7 +14,8 @@ O objetivo foi criar uma experiência intuitiva para os usuários, exibindo o ca
 
 
 
-![image](https://github.com/user-attachments/assets/1521644a-fbf2-4278-8e0e-a43335cc7cdc)
+![image](https://github.com/user-attachments/assets/5a4690e5-c009-4299-b937-d37c875506d2)
+
 
 
 🎯 Aprendizados:
